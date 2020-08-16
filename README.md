@@ -1,15 +1,15 @@
 # azkaban-training
 
-Resources and References: 
+### Resources and References: 
 
 - https://azkaban.github.io/azkaban/docs/latest/
 - https://azkaban.readthedocs.io/en/latest/
 - https://azkaban.github.io/
 
 
-- Gradle related installation 
+### Gradle related installation 
 
-https://linuxize.com/post/how-to-install-gradle-on-centos-7/
+- https://linuxize.com/post/how-to-install-gradle-on-centos-7/
 
 
 
